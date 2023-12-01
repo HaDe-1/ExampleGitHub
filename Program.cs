@@ -1,2 +1,4 @@
 ﻿
-Console.WriteLine("Example Github number 2");
+Console.WriteLine("Search patients");
+
+Console.WriteLine("Search patient number 2");
