@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Example Github number 1");
+Console.WriteLine("Example Github number 2");
